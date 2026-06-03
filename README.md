@@ -2,7 +2,7 @@
 
 Política de privacidade do Bot de Monitoramento Industrial via Telegram.
 
-**Última atualização:** Agosto de 2025
+**Última atualização:** junho de 2026
 
 ## Visão Geral
 
